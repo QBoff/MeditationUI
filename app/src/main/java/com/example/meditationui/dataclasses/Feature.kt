@@ -1,4 +1,4 @@
-package com.example.meditationui.ui.dataclasses
+package com.example.meditationui.dataclasses
 
 import androidx.annotation.DrawableRes
 import androidx.compose.ui.graphics.Color

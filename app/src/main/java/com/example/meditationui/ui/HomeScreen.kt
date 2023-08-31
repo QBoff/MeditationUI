@@ -40,8 +40,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.meditationui.R
 import com.example.meditationui.standardQuadFromTo
-import com.example.meditationui.ui.dataclasses.BottomMenuItem
-import com.example.meditationui.ui.dataclasses.Feature
+import com.example.meditationui.dataclasses.BottomMenuItem
+import com.example.meditationui.dataclasses.Feature
 import com.example.meditationui.ui.theme.AquaBlue
 import com.example.meditationui.ui.theme.Beige1
 import com.example.meditationui.ui.theme.Beige2
